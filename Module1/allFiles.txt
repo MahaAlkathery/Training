@@ -1,0 +1,298 @@
+airforce-technology.com, 
+The US Air Force has unveiled the first large-scale virtual command and control platform.
+The US Air Force’s (USAF) Air Mobility Command (AMC ) has debuted a next-generation all-domain command and control platform that is accessible from anywhere.
+In the wake of training gaps caused by Covid restrictions, the Headquarters Air Force directed the Security Forces Enterprise in May 2020 to execute a ‘capabilities-based assessment’.
+According to the USAF, this assessment was completed in October last year and led to the development of the Security Forces Enterprise Plan and the new virtual platform.
+The new virtual system is the result of $1.7m in funding to address a gap in weapons proficiency training, which funded a virtual reality training system known as ‘Street Smarts VR’.
+Street Smart VR uses virtual reality to train SF airmen on the judicious use of force in a variety of scenarios and provides courses on firing the M17 and M4, and an M18 course will be added in the near future.
+The virtual command centre was debuted on 25 May during the multinational Mobility Guardian 2021 readiness exercise.
+The nearly two-week exercise, which started on 1 May, is set to conclude on 27 May.
+“AMC leverages opportunities like Mobility Guardian to ensure our Total Force is ready to compete with, deter or defeat any adversary, not just in the current environment, but also in the future fight.”
+
+		The leading site for news and procurement in the military aerospace industry
+
+				Powered by
+				
+
+========================================================================================================calhoun.com, 
+
+Show Statistical Information
+
+Showing items related by title, author, creator and subject.
+411 Dyer Rd. Bldg. 339
+                                Monterey, CA 93943
+circdesk@nps.edu
+
+                                (831) 656-2947
+                                DSN 756-2947
+                            
+
+   
+
+                                
+                                    
+
+                                
+                                 
+
+
+Research Guides
+
+Academic Writing
+
+Ask a Librarian
+
+Copyright at NPS
+
+Graduate Writing Center
+
+How to Cite
+
+Library Liaisons
+
+Research Tools
+
+Thesis Processing Office
+
+
+Databases List
+
+Articles, Books & More
+
+NPS Theses
+
+NPS Faculty Publications: Calhoun
+
+Journal Titles
+
+Course Reserves
+
+
+My Accounts
+
+Request Article or Book
+
+Borrow, Renew, Return
+
+Tech Help
+
+Remote Access
+
+Workshops & Tours
+
+
+For Faculty & Researchers
+
+For International Students
+
+For Alumni
+
+
+
+Print, Copy, Scan, Fax
+
+Rooms & Study Spaces
+
+Floor Map
+
+Computers & Software
+
+Adapters, Lockers & More
+
+
+
+NPS Archive: Calhoun
+
+Restricted Resources
+
+Special Collections & Archives
+
+Federal Depository
+
+Homeland Security Digital Library
+
+
+NPS-Licensed Resources—Terms & Conditions
+
+Copyright Notice
+
+
+Naval Postgraduate School
+1 University Circle, Monterey, CA 93943
+Driving Directions |
+                            Campus Map
+
+
+		The export option will allow you to export the current search results of the entered query to a file. Different
+		formats are available for download. To export the items, click on the button corresponding with the preferred download format.
+	
+
+		A logged-in user can export up to 15000 items. If you're not logged in, you can export no more than 500 items.
+	
+
+		To select a subset of the search results, click "Selective Export" button and make a selection of the items you want to export.
+		The amount of items that can be exported at once is similarly restricted as the full export.
+	
+
+		After making a selection, click one of the export format buttons. The amount of items that will be exported is indicated in the bubble next to export format.
+	
+========================================================================================================clearcube.com, 
+Workstation reliability, ease of management, and speed of incident recovery is why some of the world’s largest Tactical Operations and Command & Control centers rely on ClearCube.
+
+						Increase the flexibility of your operations infrastructure and ensure mission critical applications are ready and operation when they are needed most. A centralized data center means work is never interrupted during critical moments.					
+
+						By keeping everything that matters in the data center you can keep programs and applications secure in one area and make sure systems are backed up. Command centers can't afford mistakes and ClearCube products offer workable solutions.					
+
+						Less downtime, less maintenance, less power, less total cost...with MORE uptime. Designing and customizing ClearCube devices under unique constraints is what we are good at. 					
+ClearCube Blade PC Workstations drive multiple monitors and enable mission critical applications like CAD and RMS. Increase the flexibility of your operations infrastructure by centralizing your computers into a data center so employees are never interrupted during critical timing and IT admins and system administrators have uninhibited access to making updates and monitoring the technology which means you’ll have more up-time and increase your ROI.
+Command & Control centers require a computing environment that is highly reliable, flexible, and robust. This allows them to deliver dependable assistance and situational awareness on every occasion while optimizing the operators’ environment for high-performance under stressful situations.
+ClearCube has helped some of the world’s busiest Command & Control centers resolve their critical availability, maintenance, and security concerns, using our purpose-built, hot-swappable rack-mounted blade PCs and workstations paired with our thin client endpoint devices to centralize all computing assets in a single location.
+
+						ClearCube products integrate with whatever you already have in place. We can work with your data center or cloud so deployment is swift and easy. Our goal is to help you solve problems using the resources you have.					
+
+						Many tactical operations centers are cramped for space. Our thin clients, multi level security devices and switches all come prepared for multiple monitors.					
+
+						Budgeting can be more accurate and precise and there is greater cost control through reduced 'management' of outdated applications. By standardizing and centralizing management you can consolidate data and increase efficiency and save on IT hours.					
+
+						Our products save valuable workspace, decrease support costs, and reduce data threats, all while supporting multiple secure networks per user. ClearCube’s data center and desktop virtualization solutions facilitate sustainability in rapidly evolving environments and ensure critical, dynamic mission requirements are met.					
+A brilliant example of a collaborative technology project that delivers on all fronts —increased security, performance,reliability, resilience and doing a lot more with less.
+After many hard years recovering and rebuilding after 9/11, the New York City Fire Department Operations Center (FDOC) needed more response capacity and a new backup / failover facility.
+========================================================================================================everbridge.com, 
+Leveraging a single, unified, and integrated view for managing and responding to enterprise risk, Visual Command Center enables enterprises to gain situational awareness and risk resilience on an unprecedented scale. Through real-time threat intelligence, situational awareness, and integrated response and collaboration across the enterprise, security and risk professionals can better mitigate or eliminate the impact of critical events to their organization. These critical events can span across multiple use cases such as Life Safety & Security, Business Continuity, and Supply Chain Management.
+Visual Command Center serves as the visualization and orchestration engine for the Everbridge Critical Event Management Platform streamlining the steps of Assess, Locate, Act, and Analyze, thereby enabling organizations to better manage operational risk.
+Visual Command Center allows you to integrate asset and risk data into a common operating picture so that you can quickly identify critical events that may threaten life safety or cause business disruptions.
+Gain a complete and shared boots-on-the-ground understanding of critical events your organization faces so that operations can effectively manage day-to-day challenges and respond to disasters when they arise.
+As the situation changes, Visual Command Center allows you to collaborate and communicate with key stakeholders through integration with incident communications and mass notification.
+Through better risk preparedness, organizations can be more proactive when dealing with threats.  This can help them mitigate or avoid the impact altogether.  This can result in avoidance of costs that might include shutdowns, fines, loss or damaged inventory and even loss of life.
+By improving risk resilience, organizations can take on more risk which might allow them to operate in new markets or take market-share from competitors that are less prepared for managing operational risk.
+Visual Command Center includes risk intelligence data from over 100 different sources to provide a comprehensive view of risk.  Some of these types include
+Visual Command Center Channels are designed to deliver the right information to the right people during a critical event or when your organization needs to understand the current risk environment.  Channels can be broadcast on your command center video wall or on a mobile device or computer screen for stakeholders that are not in the command center or for organizations that have more of a “virtual” command center. Channels are organized into the following categories:
+“Visual Command Center empowers the GSOC to provide a credible voice from security to our overall business development plan. Our team and its overall understanding of our operational environment are essential to ensuring the continuity of operations, the safety of employees and security of assets.”
+– Bob Bernazal, Assistant Director of Security, National Oilwell Varco
+“Visual Command Center dramatically increases our ability to manage risk and protect our people and operations from threats on a global basis.”
+– Joe Brown, Director Global Security and Safety, VMware
+“Visual Command Center is essential to maintaining our security mission, from routine day-to-day local operations to crisis management at our facilities worldwide, making a real impact on our ability to keep our people safe.”
+– Mike Howard, Chief Security Officer, Microsoft Global Security
+This paper peels back the training drill design process to create the best drill experience possible. You’ll learn what makes a great drill; how to decide who should be participating in the drill and who should be designing it; communication and messaging best practices.
+Learn how to drive more value from your command center. Read this paper for best practices and technologies you can employ to ensure your command center team and organization are setting themselves up for success.
+Know where your people are based on their static, last known, and expected location.
+Triage and fix IT incidents faster with workflow automation and on-call schedule management.
+Keep everyone informed before, during, and after critical events with targeted communications and workflow automation.
+Request a demo or just call us at 888-366-4911
+========================================================================================================ey.com, 
+Top 10 risks for telecommunications in 2023
+The CEO Imperative: Prepare now for the new era of globalization
+Can decentralized energy get good enough, fast enough?
+  Select your location  Close country language switcher 
+ No search results have been found 
+EY Americas Digital and Financial Services Cloud Leader
+Technology Transformation and Cloud leader. Over 25 years of experience in the financial services industry. Expertise in business-led, technology-enabled transformation. 
+Managing Director, Financial Services, Ernst & Young LLP
+Over 20 years of experience advising financial institutions. Leads their technology assessment, risk identification and mitigation planning for large transformations. 
+COVID-19 has exposed systematic shortcomings in the ability of legacy command centers and control systems to support business continuity efforts of financial institutions (FIs) during times of crisis. Not only have many failed to meet basic business and technology needs, they also were built on the assumption that key IT staff members can be physically brought together to manage the response. What if the nature of the crisis prevents you from gathering in the same location or physical gathering at all?
+Many of the systems used by institutions today were evolved in the wake of the 9/11 terrorist attacks. These systems must modernize again to meet today’s business and technology needs of unprecedented scale and speed, not just to keep the enterprise running but also to come out of the crisis more resilient than before. In addition, FIs must also deal with evolving regulatory pressure to demonstrate control over their increasing business, cyber and technology risks.
+The virtual command center (VCC) is an operational concept that builds upon a mature IT service operations state, integrating it with an immersive interaction layer to stand up and run a fully functional remote alternative to the traditional brick-and-mortar facilities.
+The VCC represents a significant paradigm shift in crisis management whose time has come. The form and function of command centers must catch up with modern-day technological realities and provide an immersive experience that drives innovative collaboration when it matters most.
+The response to COVID-19 has highlighted the need for financial institutions to create a new, more agile crisis management solution.
+Even before COVID-19, the need to boost command center resiliency had become a point of emphasis. The movement of critical business functions (CBFs) and their supporting infrastructure to the public cloud has had institutions looking to modernize command centers and transition to detached, external control systems capable of managing complex IT ecosystems from the outside.
+While some institutions have embraced automated continuous integration/continuous development/continuous testing (CI/CD/CT) methods to make their management of those ecosystems more agile, most continue to rely on legacy methods that were developed more than a decade ago. For years, hyper-redundant Tier 1 facilities have been the foundation for managing complex day-to-day business and technology cycles — and for enabling a steady stream of new capabilities to protect business applications and CBFs.
+As activity has migrated to the public cloud, the challenges to those legacy-based command centers, command-and-control systems and crisis-management processes have become more evident. Common problems that limit their effectiveness include:
+Collectively, these problems manifest themselves in ways that are felt by customers, workers and operations, including:
+COVID-19 has revealed two other significant problems with those legacy systems. First, the relatively static, inflexible nature of on-premise systems supporting command centers are fraught with choke points, which can stymie an institution’s ability to react to crisis situations in an agile and flexible manner. Second, those systems don’t do well at supporting IT teams when they need to work remotely.
+The VCC approach represents a coordinated set of technologies, applications and processes that applies the established principles of modern-day public cloud, automation, robotics and containerization to help navigate uncertain terrain during times of business disruption. It can help overcome constraints, such as geolocation, processing capacity and network bandwidth, that are largely static and inflexible in today’s on-premise systems.
+While this hybrid use of modern technologies will likely be spun up and managed by artificial intelligence (AI), it’s useful to envision a highly augmented virtual reality (VR) setup, where VR technology bridges the gap between humans and AI by providing a tangible and interactive space and structure as well as enhances communication in a virtual world.
+Multiple screens could be used by crisis leads and senior executives, while senior operations leads could have a more immersive experience, taking manual control of the command center remotely. Imagine, for example, being able to slide on a pair of VR goggles or walk into an equipped augmented reality room (ARR) in your home office and see everything on your work desktop — and other people on your team — in real time.
+The VCC requires successful implementation of this level of automation, which is wholly dependent on the institution having a strong foundation in modernized operations (ModOps) across the wider organization. This diagram illustrates the interplay between the VCC and what’s already in play in a typical ModOps framework:
+COVID-19 has exposed shortcomings in the way legacy command centers employed by financial institutions maintain business continuity during a crisis, but in truth, change has been a long time coming.
+As the use of infrastructure-as-a-service, platform-as-a-service and public cloud solutions drives institutions further into the public marketplace, the ability to respond with agility to ever more sophisticated cyber, technology and environmental threats will become more important.
+The VCC approach, with its built-in abilities to leverage AI, VR and other capabilities, represents a paradigm shift that could help institutions manage through all sorts of threats — including pandemics — more effectively for generations to come. 
+EY teams help financial services organizations realize value from cloud investments.
+We have a clear view of the critical questions and new answers required for effective business continuity and resilience.
+Gain access to our help with crisis management, business continuity and enterprise resilience.
+COVID-19 exposed systematic shortcomings in the ability of command centers and control systems to support the business continuity efforts of financial institutions during times of crisis. The virtual command center represents a paradigm shift critical to bolstering FIs’ operational resilience, flexibility, and control over increasing business, cyber and technology risks.
+EY Americas Digital and Financial Services Cloud Leader
+Technology Transformation and Cloud leader. Over 25 years of experience in the financial services industry. Expertise in business-led, technology-enabled transformation. 
+Managing Director, Financial Services, Ernst & Young LLP
+Over 20 years of experience advising financial institutions. Leads their technology assessment, risk identification and mitigation planning for large transformations. 
+EY refers to the global organization, and may refer to one or more, of the member firms of Ernst & Young Global Limited, each of which is a separate legal entity. Ernst & Young Global Limited, a UK company limited by guarantee, does not provide services to clients. 
+EY is a global leader in assurance, consulting, strategy and transactions, and tax services. The insights and quality services we deliver help build trust and confidence in the capital markets and in economies the world over. We develop outstanding leaders who team to deliver on our promises to all of our stakeholders. In so doing, we play a critical role in building a better working world for our people, for our clients and for our communities.
+This material has been prepared for general informational purposes only and is not intended to be relied upon as accounting, tax, or other professional advice. Please refer to your advisors for specific advice.
+We have detected that Do Not Track/Global Privacy Control is enabled in your browser; as a result, Marketing/Targeting cookies, which are set by third parties with whom we execute marketing campaigns and allow us to provide you with content relevant to you, are automatically disabled.
+========================================================================================================fuseforward.com, 
+A Virtual Operations Command Center is a secure, cloud-based hub that allows you to monitor, control, and optimize infrastructure, utility, and building operations from a central console. Data from sensors and devices provide a real-time view of performance. 
+We are currently leading research to develop a comprehensive end-to-end Virtual Operations Command Center and need real cases to help us test and pilot this technology. As a pilot project participant, we will work with you to develop an Operations Center that meets your specific needs. 
+We can tackle any kind of project, of any size! All you need is an existing source of streaming operational data—whether that is from SCADA systems, IoT devices or field crews.
+Possible projects include:
+You could attempt to develop a custom operations center on your own, but as a pilot project participant, you’ll get a head start by building on technology we’ve already developed. You will also have access to our research team and potential research funding opportunities.
+Most importantly, you will have a say in key features of the product and be up and running on the market before your competitors.
+Complete our form and a member of our R&D team will be in touch. We’ll set up a time to discuss your project and potential opportunities for participation.
+Corporate Headquarters671-J Market HillVancouver, BC V5Z 4B5
+========================================================================================================iopscience.com, 
+404. That’s an error.
+
+The requested URL /search?q=cache:https://iopscience.iop.org/article/10.1088/1742-6596/1627/1/012002/pdf was not found on this server.  That’s all we know.
+
+========================================================================================================mechdyne.com, 
+Visit Us At The Car Design Forum In LA – November 17. See The Latest In 3D LED Technology!
+Most command centers still look like they did in movies from decades past because until now they’ve been bound by familiar constraints. Challenge number one: limitations of space. “There are only so many screens you can cram into an existing environment, and effectively sharing that information remotely can be equally challenging,” explains Chad Kickbush of Mechdyne.
+“But where we really run into a wall,” adds LaFrenz, “is in our heads. Traditional command and control centers feed us information in a manner that our brains struggle to process.”
+He’s referring to a phenomenon called “cognitive loading.” We see the world in 3D, and we process information most effectively in three dimensions. But most information relevant to command and control is delivered to us in 2D, via graphs, charts, and other data delivery formats. The time and energy we expend to “cognitively load” 2D information into a 3D brain creates fatigue and strain, slowing our ability to act on the information we’re receiving.
+The events of the past few years add an element of urgency to the task of rethinking command and control. From travel restrictions to room capacity controls and individual health concerns, a host of factors can reduce the availability of needed experts. Consequently, remote participation is now an expected part of any solution. That fact only underscores the importance of transforming the way complex information is communicated.
+We can’t alter the way our brains work, but we can change the way information is delivered to them. And that’s precisely what’s happening, thanks to the convergence of several technology trends that will dramatically impact the future of command and control centers:
+Industry innovators like VizworX and Mechdyne have developed the means to create fully-functional virtual and extended reality (XR) control rooms that deliver on the promise of cutting-edge technology. Combining virtual reality (VR), augmented reality (AR), and mixed reality (MR) technologies, XR can be added to new or existing command centers, or developed as a stand-alone capability for field operations.
+How will VR and XR transform traditional command and control? First, imagine all the functionality of your current command and control facility, available to you on a VR headset. Every screen, every map, every data feed.
+Now imagine way MORE functionality. Freed from the constraints of 2D displays, a VR headset enables important capabilities:
+Instead of entering a physical facility, you’ll simply don a VR headset linked to a network-tethered computer. In this environment, space, equipment, and capacity constraints virtually disappear. Organizations can populate the virtual control room with familiar assets, creating a metaverse-like professional environment for their teams to collaborate in. The ability to accommodate any number of participants – wherever they may be – opens up tremendous potential for collaboration during crisis events or simulations.
+“It all boils down to having more complete and usable information, enabling a faster and more coordinated response in dynamic situations,” says Chad Kickbush of Mechdyne. Consider a timely example: a wildfire that’s knocked out a whole section of the power grid, requiring a rebalancing of the network. Every second counts, yet you need time to assess the situation, gather the appropriate people, and formulate a plan of action to protect a highly dispersed infrastructure. The technology is at hand to assemble decision-makers in a shared virtual environment, present critical data with geospatial accuracy, and facilitate an effective response.
+“Or what if an oil spill demands an immediate response, but your experts aren’t on-site?,” asks Kickbush. “Extended reality technology can provide full command and control access wherever your people are. From maritime traffic to weather patterns and sub-surface information, decision-makers can access complex, essential information in a form they can readily process and act upon.” These VR capabilities can be connected to traditional control center activities to ensure complete access and collaboration.
+The possibilities for coordinated action become particularly striking when VR is paired with AR and MR capabilities. With the aid of augmented reality technology, for example, decision-makers can have an enhanced view of their immediate environs and act quickly by accessing command and control technologies via their headsets.
+What’s more, you don’t need to venture to the farthest reaches of your grid to realize the value of these technologies. A powerplant’s engineers can bring command capabilities straight to the energy-generating infrastructure – the rods, the pipes, the turbines – to diagnose and address issues with maximum efficiency.
+“VR control rooms also prove their value well before crises like wildfires or pipeline ruptures occur,” adds LaFrenz. “In fact, they’re a game-changer for training, simulations, and drills.” Most operations centers maintain mockup control rooms for training purposes. These facilities have limited capacity, and are expensive to operate and maintain. VR control rooms have no capacity limits. “Moreover, it’s easy for a supervisor to jump into a VR environment to monitor and lead the training,” says Kickbush.
+Similarly, drills and simulations can take place in a virtual environment without impeding the functioning of the physical control room. Freed from capacity constraints and other issues, VR control rooms provide richer and more frequent opportunities to hone response tactics and advance situational awareness.
+When a natural disaster is unfolding, lives depend on coordinated relief efforts. Yet emergencies such as hurricanes present unique challenges to aid providers. Just as waters can come in a flood, so does information – in complex forms, from multiple directions, in a ceaseless flow. Authorities need functioning command centers ASAP, but setting them up in affected areas takes time. And no matter how well equipped they are, mobile command facilities – which are typically housed in modified shipping containers – will always suffer from limitations of screen real estate and physical space.
+VR control centers provide full information management, with the flexibility to bring in the visualizations you need, when and where you need them. That translates into better decisions in fast-evolving situations. A control room in a box is now possible.
+Perhaps no environment presents greater obstacles to control than a military battlefield. In a ground troop context, command facilities – again occupying limited spaces – must be set up in often dangerous environments, then broken down, moved, and subsequently relocated to stay one step ahead of enemy targeting. “Such facilities are mobile, but they’re hardly portable,” says LaFrenz. “It requires tremendous logistical acumen to ensure a steady stream of actionable information in theater.”
+Ship-based command centers carry their own unique challenges – from the highly confined nature of their spaces to the constraints imposed by their location deep in a ship’s bowels. XR command and control brings a wealth of resources straight to the command deck, or to a more remote, safer location. Wherever they’re deployed, the technologies can provide the critical information military leaders need to maintain battlefield dominance.
+The best way to realize XR’s potential for your command center is to partner with those who are pioneering this application of the technology. Alberta, Canada-based VizworX, a software development company affiliated with the University of Calgary, draws on decades of experience developing industrial solutions, including next-generation control room interfaces for utilities and teams with expertise in virtual and augmented reality applications. Iowa-based Mechdyne is a large-scale technology integration company with deep capabilities in integrated virtual reality systems, network connectivity, hardware, support, and maintenance.
+“We’ve joined forces not just to imagine and design the future of VR control rooms, but to bring our solutions to life,” says Kickbush. “With the right partners, we’ll create an entirely new paradigm for command and control.”
+Who’s the right candidate for such a venture? “We’re looking for partners who understand just how powerful VR and XR technology are – and will become,” explains LaFrenz. “We want to join forces with a company or government entity that wants to be both a leader and a co-creator of a customized solution that’s tailorable to their unique needs.”
+We live in a world rife with uncertainty and complexity. From extreme weather events to complex geopolitical challenges, knowledge will be the decisive factor in our ability to overcome obstacles and prevail in conflict. “XR technologies will enable us to process the critical information necessary to keep chaos at bay,” says Kickbush. “And the good news is, we have all the tools we need to make extended reality part of our shared reality.”
+---Audio Visual SolutionsCommand & Control RoomsExperiential SpacesImmersive, VR, & ARVirtual Production (VFX)Custom & World Firsts
+©2022 Mechdyne Corporation
+========================================================================================================researchgate.com, 
+404. That’s an error.
+
+The requested URL /search?q=cache:https://www.researchgate.net/publication/323642340_Analysis_of_Using_Virtual_Reality_VR_for_Command_and_Control_Applications_of_Multi-Robot_Systems was not found on this server.  That’s all we know.
+
+========================================================================================================simfront.com, 
+Our products package years of development into purpose-built solutions for the defense software industry.  Customized, adaptive and continually enhanced through fast working partnerships, each product delivers a unique capability.
+VCCI, the Virtual Command and Control Interface, is used to support simulation based training to the military. It is the middleware that sits between 3rd party simulators and military command and control applications. In broad terms, VCCI offers data translation, transformation and coordination services between 3rd party simulators and military command and control applications. It also provides value added simulation services in its own right.
+Aramis is a Military Off-The-Shelf (MOTS) After Action Review (AAR) tool that graphically represents complex simulation data captured from a military exercise. It allows the AAR analyst to quickly locate issues and specific topics from the exercise and display it in a meaningful fashion, thereby increasing the value of the event for the primary training audience. Because Aramis extracts its exercise data from NATO’s Multilateral Interoperability Protocol (MIP) Land Command and Control Information Exchange Data Model (LC2IEDM), it is simulation independent.
+Paradigm is a distributed component architecture which leverages the following architectural concepts, standards and best practices:
+1) A Service Oriented approach to introducing and implementing capabilities (e.g. modelling and simulation capabilities).2) An N-Tier architectural structure that maintains separation between presentation layers, business layers and resource layers.3) A two tier Hub and Spoke interaction mechanism which allows data to flow between components using both a request / response model and a publish / subscribe model.
+The application has two main parts, a web app and a Local Inventory Metadata Engine (LIME). The web app provides all administration, management and user functions such as tagging and searching. The LIME is a service that is co-located with the assets. LIME monitors the assets and abstracts the changes to the assets so that decision makerscan easily determine how many times an asset has been re-used, re-purposed or improved from its original purpose. SERR is a lightweight, simple to use tool for managing assets that are worked. While SERR was originally designed for the military modelling and simulation community, the application may be extended to commercial applications under its commercial name of DART (Digital Asset and Reference Trust).
+MapSpark is an Open Geo-Consortium Compliant (OGC) GIS service that will be used primarily in the Army vehicle-based systems and Synthetic Environment.
+MapSpark is used to serve Geographical Information System (GIS) products to client applications.
+MapSpark is a web-based server, where only one instance is required to support one site or one training event.
+MapSpark has a small footprint and can also be deployed on laptops at the vehicle-level to support mobile GIS/map requirements.
+REST Endpoints Status, Version, Catalog, Administration
+T4 ATC is for organizations that need to train Air Traffic Control (ATC) Tower controllers to operate in highly unique ATC environments without using human role players. T4 ATC is a data driven system desktop training system that utilizes speech recognition to allow ATC trainees to independently practice pattern management and conflict resolution within the context of their own environment.
+Unlike other Tower ATC desktop simulations that use generic airfields and generic procedures that require ATC trainees to adapt to the simulation, T4 ATC was designed to reflect the specifics of an aerodrome thereby allowing the trainee to directly transfer learning from the simulation to the real-world.
+This results in higher trainee confidence and competence, which in turn results in greater rates of first time right performance when working with live traffic. T4 ATC was first designed and built for the Canadian Military ATC community. Six sites across Canada will take delivery of T4 ATC systems
+========================================================================================================trigent.com, 
+Ensure business continuity at affordable pay-per-use pricing
+Life or work without a high performing network or applications is unimaginable in today's day and age. Therefore, it is very frustrating whenever one is unable to access a system or application. Don't let this happen to your business. 
+Trigent's virtual command center solution provides proactive and intelligent 24x7 management of your IT infrastructure. We ensure your business-critical IT infrastructure's high availability and performance so that your employees enjoy
+
+seamless access to them at all times from anywhere. 
+VCC solution does proactive monitoring to ensure that tickets are automatically raised based on the degradation of service, leading to a reduction in the volume of tickets flowing into the desk. You get even more value with VCC solution as our innovative
+
+& flexible pricing is based on the number of desktops and servers that require support, thus optimizing your operational cost. 
+Many IT managers have sleepless nights due to their team's inability to support: 
+We provide help desk agents that are fully dedicated to your business and provide a 100% seamless environment for your end-users.
+Provides full-time coverage at cost savings. The resources are shared among other clients, and still providing seamless services for your team.
+Optimize your cloud spend and reduce OpEx by 30%
+What level is your organization on the IT Transformation Maturity Model? 
+Serverless Computing – 3 Key Components and Why It Is Important For Digital Transformation
+How to Plan Your Data Center Migration to the Cloud
+========================================================================================================

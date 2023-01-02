@@ -1,0 +1,9 @@
+fuseforward.com, 
+A Virtual Operations Command Center is a secure, cloud-based hub that allows you to monitor, control, and optimize infrastructure, utility, and building operations from a central console. Data from sensors and devices provide a real-time view of performance. 
+We are currently leading research to develop a comprehensive end-to-end Virtual Operations Command Center and need real cases to help us test and pilot this technology. As a pilot project participant, we will work with you to develop an Operations Center that meets your specific needs. 
+We can tackle any kind of project, of any size! All you need is an existing source of streaming operational data—whether that is from SCADA systems, IoT devices or field crews.
+Possible projects include:
+You could attempt to develop a custom operations center on your own, but as a pilot project participant, you’ll get a head start by building on technology we’ve already developed. You will also have access to our research team and potential research funding opportunities.
+Most importantly, you will have a say in key features of the product and be up and running on the market before your competitors.
+Complete our form and a member of our R&D team will be in touch. We’ll set up a time to discuss your project and potential opportunities for participation.
+Corporate Headquarters671-J Market HillVancouver, BC V5Z 4B5

@@ -1,0 +1,21 @@
+clearcube.com, 
+Workstation reliability, ease of management, and speed of incident recovery is why some of the world’s largest Tactical Operations and Command & Control centers rely on ClearCube.
+
+						Increase the flexibility of your operations infrastructure and ensure mission critical applications are ready and operation when they are needed most. A centralized data center means work is never interrupted during critical moments.					
+
+						By keeping everything that matters in the data center you can keep programs and applications secure in one area and make sure systems are backed up. Command centers can't afford mistakes and ClearCube products offer workable solutions.					
+
+						Less downtime, less maintenance, less power, less total cost...with MORE uptime. Designing and customizing ClearCube devices under unique constraints is what we are good at. 					
+ClearCube Blade PC Workstations drive multiple monitors and enable mission critical applications like CAD and RMS. Increase the flexibility of your operations infrastructure by centralizing your computers into a data center so employees are never interrupted during critical timing and IT admins and system administrators have uninhibited access to making updates and monitoring the technology which means you’ll have more up-time and increase your ROI.
+Command & Control centers require a computing environment that is highly reliable, flexible, and robust. This allows them to deliver dependable assistance and situational awareness on every occasion while optimizing the operators’ environment for high-performance under stressful situations.
+ClearCube has helped some of the world’s busiest Command & Control centers resolve their critical availability, maintenance, and security concerns, using our purpose-built, hot-swappable rack-mounted blade PCs and workstations paired with our thin client endpoint devices to centralize all computing assets in a single location.
+
+						ClearCube products integrate with whatever you already have in place. We can work with your data center or cloud so deployment is swift and easy. Our goal is to help you solve problems using the resources you have.					
+
+						Many tactical operations centers are cramped for space. Our thin clients, multi level security devices and switches all come prepared for multiple monitors.					
+
+						Budgeting can be more accurate and precise and there is greater cost control through reduced 'management' of outdated applications. By standardizing and centralizing management you can consolidate data and increase efficiency and save on IT hours.					
+
+						Our products save valuable workspace, decrease support costs, and reduce data threats, all while supporting multiple secure networks per user. ClearCube’s data center and desktop virtualization solutions facilitate sustainability in rapidly evolving environments and ensure critical, dynamic mission requirements are met.					
+A brilliant example of a collaborative technology project that delivers on all fronts —increased security, performance,reliability, resilience and doing a lot more with less.
+After many hard years recovering and rebuilding after 9/11, the New York City Fire Department Operations Center (FDOC) needed more response capacity and a new backup / failover facility.

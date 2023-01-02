@@ -1,0 +1,5 @@
+researchgate.com, 
+404. That’s an error.
+
+The requested URL /search?q=cache:https://www.researchgate.net/publication/323642340_Analysis_of_Using_Virtual_Reality_VR_for_Command_and_Control_Applications_of_Multi-Robot_Systems was not found on this server.  That’s all we know.
+
